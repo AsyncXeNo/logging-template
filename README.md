@@ -14,7 +14,7 @@ keys=file_handler_root,file_handler_new_logger
 ```
 [logger_new_logger]
 level=DEBUG
-handlers=file_new_logger
+handlers=file_handler_new_logger
 qualname=new_logger
 propagate=1
 ```
